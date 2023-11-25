@@ -1,0 +1,28 @@
+/* /* pre{
+    color:hotpink;
+    background-color:blueviolet;
+}
+*{
+    margin:0;
+    padding:0;
+
+}
+.important-text{
+    color:cadetblue;
+}
+
+#red{
+    color:red;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color:aquamarine;
+    background-color:black;
+} */
+
+section p{
+    border: solid 1px black;
+}
+section > p{
+    background-color: aquamarine;
+} */
